@@ -3,10 +3,10 @@
     "name": "merkle-bitcoin",
     "version": "1.0.0",
     "description": "Bitcoin-style merkle root generation.",
-    "homepage": "https://github.com/jorgezaccaro/merkle-bitcoin",
+    "homepage": "https://github.com/wuhuaping/merkle-bitcoin",
     "repository": {
         "type": "git",
-        "url": "git://github.com/jorgezaccaro/merkle-bitcoin.git"
+        "url": "git://github.com/wuhuaping/merkle-bitcoin.git"
     },
     "keywords": [
         "merkle",
@@ -14,7 +14,7 @@
     ],
     "author": {
         "name": "Jorge Zaccaro",
-        "email": "jorgezaccaro@gmail.com"
+        "email": "huaping7758@gmail.com"
     },
     "dependencies": {
         "async": "^1.2.1"
